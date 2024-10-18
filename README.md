@@ -18,6 +18,4 @@ It is fully responsive for mobile and desktop
 
 Check the Demo video below
 
-https://github.com/talib122/CodeAlpha-Image-gallery-in-React-js-using-Tailwind-css/issues/1#issue-2596865973
-
-
+https://github.com/user-attachments/assets/bcccd431-4ce6-43f5-9f36-409d0f6796bc
