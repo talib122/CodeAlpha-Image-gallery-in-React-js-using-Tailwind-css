@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CodeAlpha-Image-gallery-in-React-js-using-Tailwind-css/static/css/main.f593bd32.css",
+    "main.js": "/CodeAlpha-Image-gallery-in-React-js-using-Tailwind-css/static/js/main.9d991617.js",
+    "static/js/453.fe5b1732.chunk.js": "/CodeAlpha-Image-gallery-in-React-js-using-Tailwind-css/static/js/453.fe5b1732.chunk.js",
+    "static/media/e7.jpeg": "/CodeAlpha-Image-gallery-in-React-js-using-Tailwind-css/static/media/e7.006381afedfae6518039.jpeg",
+    "static/media/d9.jpeg": "/CodeAlpha-Image-gallery-in-React-js-using-Tailwind-css/static/media/d9.eeb5045d9c11e197fd7b.jpeg",
+    "static/media/e6.jpeg": "/CodeAlpha-Image-gallery-in-React-js-using-Tailwind-css/static/media/e6.4eaae12fc5412e44e2a5.jpeg",
+    "static/media/c15.jpeg": "/CodeAlpha-Image-gallery-in-React-js-using-Tailwind-css/static/media/c15.d56178fa135d05b347e3.jpeg",
+    "static/media/b4.jpeg": "/CodeAlpha-Image-gallery-in-React-js-using-Tailwind-css/static/media/b4.58a1f6e18c8b68ed47b0.jpeg",
+    "static/media/e3.jpeg": "/CodeAlpha-Image-gallery-in-React-js-using-Tailwind-css/static/media/e3.9319916bd1f3f54f37a2.jpeg",
+    "index.html": "/CodeAlpha-Image-gallery-in-React-js-using-Tailwind-css/index.html",
+    "main.f593bd32.css.map": "/CodeAlpha-Image-gallery-in-React-js-using-Tailwind-css/static/css/main.f593bd32.css.map",
+    "main.9d991617.js.map": "/CodeAlpha-Image-gallery-in-React-js-using-Tailwind-css/static/js/main.9d991617.js.map",
+    "453.fe5b1732.chunk.js.map": "/CodeAlpha-Image-gallery-in-React-js-using-Tailwind-css/static/js/453.fe5b1732.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f593bd32.css",
+    "static/js/main.9d991617.js"
+  ]
+}
